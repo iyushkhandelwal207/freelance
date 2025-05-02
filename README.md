@@ -59,4 +59,4 @@ project/
 ## 👨‍💻 Created By
 
 **Piyush Khandelwal & Nakul Singh**
-Deployed at: [https://nakulsingh-nsp.42web.io/](https://nakulsingh-nsp.42web.io/)
+Deployed at: https://piyushkhandelwal-nsp.42web.io/
