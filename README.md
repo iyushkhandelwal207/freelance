@@ -58,5 +58,5 @@ project/
 
 ## 👨‍💻 Created By
 
-**Nakul Singh & Piyush Khandelwal**  
+**Piyush Khandelwal & Nakul Singh **  
 Deployed at: [https://nakulsingh-nsp.42web.io/](https://nakulsingh-nsp.42web.io/)
