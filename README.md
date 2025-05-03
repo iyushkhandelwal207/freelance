@@ -2,7 +2,8 @@
 
 A simple and clean PHP-based web application to manage freelance clients and projects.
 
-🔗 **Live Demo**: [https://nakulsingh-nsp.42web.io/](https://nakulsingh-nsp.42web.io/)
+🔗 **Live Demo**: 1.https://piyushkhandelwal-nsp.42web.io/
+2.[https://nakulsingh-nsp.42web.io/](https://nakulsingh-nsp.42web.io/)
 
 ## ✨ Features
 
@@ -58,5 +59,6 @@ project/
 
 ## 👨‍💻 Created By
 
-**Nakul Singh & Piyush Khandelwal**  
-Deployed at: [https://nakulsingh-nsp.42web.io/](https://nakulsingh-nsp.42web.io/)
+**Piyush Khandelwal & Nakul Singh**  
+Deployed at: 1.https://piyushkhandelwal-nsp.42web.io/
+[https://nakulsingh-nsp.42web.io/](https://nakulsingh-nsp.42web.io/)
