@@ -61,4 +61,4 @@ project/
 
 **Piyush Khandelwal & Nakul Singh**  
 Deployed at: 1.https://piyushkhandelwal-nsp.42web.io/
-[https://nakulsingh-nsp.42web.io/](https://nakulsingh-nsp.42web.io/)
+2.[https://nakulsingh-nsp.42web.io/](https://nakulsingh-nsp.42web.io/)
